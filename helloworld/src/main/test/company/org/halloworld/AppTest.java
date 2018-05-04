@@ -19,4 +19,8 @@ public class AppTest
     {
         assertTrue( true );
     }
-}cd 
+    
+    public void testFail() {
+    	assertTrue(false);
+    }
+}
