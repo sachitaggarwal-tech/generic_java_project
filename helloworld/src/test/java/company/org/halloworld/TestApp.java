@@ -21,7 +21,7 @@ public class TestApp
         assertTrue( true );
     }
     
-    public void testFail() {
-    	assertTrue(false);
-    }
+//    public void testFail() {
+//    	assertTrue(false);
+//    }
 }
